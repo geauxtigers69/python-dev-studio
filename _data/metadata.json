@@ -1,0 +1,21 @@
+{
+  "title": "Python Dev Studio",
+  "url": "https://netlify.pythondevstudio.app/",
+  "language": "en",
+  "description": "A Python Developer Servicing studio..",
+  "feed": {
+    "subtitle": "I am writing about my experiences as a naval navel-gazer.",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://netlify.pythondevstudio.app/"
+  },
+  "jsonfeed": {
+    "path": "/feed/feed.json",
+    "url": "https://netlify.pythondevstudio.app/feed/feed.json"
+  },
+  "author": {
+    "name": "Harold Cliffinger",
+    "email": "pythondevstudio@gmail.com",
+    "url": "https://netlify.pythondevstudio.app/about-me/"
+  }
+}
